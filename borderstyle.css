@@ -1,0 +1,13 @@
+<html>
+<head>
+<style>
+p.dotted{border-style:dotted;border-width:10px;border-color:red;}
+p.dashed{border-style:dashed;border-width:thick;border-color:yellow;}
+p.solid{border-style:solid;border-width:20px;border-color:purple;}
+p.double{border-style:double;border-width:3px;border-color:orange;}
+p.groove{border-style:groove;border-width:80px;border-color:green;}
+p.ridge{border-style:ridge;border-width:6px;border-color:yellow;}
+p.inset{border-style:inset;border-width:5px;border-color:blue;}
+p.outset{border-style:outset;border-width:4px;border-color:navy;}
+p.none{border-style:none;border-width:3px;border-color:orange;}
+p.hidden{border-style:hidden;border-width:185px;border-color:blue;}
